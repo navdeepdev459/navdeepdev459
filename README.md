@@ -34,9 +34,7 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Web Developer** with a passio
 
 ### Recent Projects
 - **[React-Todo-App](https://github.com/navdeepdev459/React-Todo-App)** - A modern todo application built with React (Last updated: 12 days ago) [🔗 Live Demo](https://react-todo-app-sigma-puce.vercel.app)
-- **[Vscode-Design](https://github.com/navdeepdev459/Vscode-Design)** - My VSCode Design project
-- **[hello-theme-child](https://github.com/navdeepdev459/hello-theme-child)** - WordPress child theme
-- **[React](https://github.com/navdeepdev459/React)** - React learning & experiments
+- - **[React](https://github.com/navdeepdev459/React)** - React learning & experiments
 
 ### Repository Highlights
 - **5 Public Repositories**
